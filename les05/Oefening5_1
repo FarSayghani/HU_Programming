@@ -1,0 +1,8 @@
+naam = input('wat is je naam: ')
+leeftijd = eval(input("leeftijd: "))
+
+if leeftijd < (18):
+    print(naam + " je mag nog niet stemmen.")
+else:
+    print(naam + ' je mag stemmen')
+

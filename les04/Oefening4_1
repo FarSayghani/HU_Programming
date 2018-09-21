@@ -1,0 +1,5 @@
+rege11 = ("Hallo Python programmeur...")
+rege12 = ("welkom in de wereld van Python")
+
+print (rege11)
+print (rege12)
