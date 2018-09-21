@@ -7,3 +7,4 @@ for getal in getallenlijst:
 
 print ('het grootste getal is ' + str(maxGetal))
 
+swa
